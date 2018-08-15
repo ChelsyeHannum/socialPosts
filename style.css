@@ -1,0 +1,37 @@
+    h1 {
+        font-size: 45px;
+        font-family: 'Homemade Apple', cursive;
+        color: rgb(3, 169, 244);
+    }
+    
+    .thoughtBtn {
+        width: 50%;
+        height: 30px;
+    }
+    
+    .textArea {
+        height: 150px;
+    }
+    
+    body {
+        background: #f3f1f7;
+    }
+    
+    form {
+        background: #B1ddea;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        font-family: 'Dosis', sans-serif;
+    }
+    
+    input {
+        border: solid black 1px;
+        border-radius: 5px;
+        height: 30px;
+        width: 50%;
+    }
+    
+    .addPost {
+        width: 50%;
+    }
