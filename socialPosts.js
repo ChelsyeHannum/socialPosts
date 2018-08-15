@@ -14,8 +14,6 @@ const socialPosts = {
     controller: function() {
         const vm = this;
         vm.postList = [{
-            title: "Hello",
-            thought: "This is crazy"
 
         }];
 
